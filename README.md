@@ -6,10 +6,16 @@ Our hostel management system will encompass essential features such as adding st
 
 How to Run the Code:
 
-To run the Python code for the hostel management system, follow these steps:
-Create a Folder: Choose a name for your project and create a folder with that name on your computer. This folder will contain all the files related to the hostel management system.
-Create a Python File: Inside the folder, create a new Python file named main.py. You can do this by right-clicking within the folder, selecting “New” or “Create New”, and then choosing “Python File” or simply “File” depending on your operating system and text editor.
-Paste the Code: Open the main.py file in a text editor or an integrated development environment (IDE) of your choice. Copy the Python code provided for the hostel management system and paste it into the main.py file.
-Save the File: After pasting the code, save the main.py file.
-Run the Code: Open a terminal or command prompt window and navigate to the folder where you saved the main.py file. You can do this using the cd command (change directory) followed by the path to your folder.
-Execute the Python Script: Once you’re in the correct directory, type python main.py and press Enter to run the Python script. This will execute the code and launch the hostel management system.
+1)To run the Python code for the hostel management system, follow these steps:
+
+2)Create a Folder: Choose a name for your project and create a folder with that name on your computer. This folder will contain all the files related to the hostel management system.
+
+3)Create a Python File: Inside the folder, create a new Python file named main.py. You can do this by right-clicking within the folder, selecting “New” or “Create New”, and then choosing “Python File” or simply “File” depending on your operating system and text editor.
+
+4)Paste the Code: Open the main.py file in a text editor or an integrated development environment (IDE) of your choice. Copy the Python code provided for the hostel management system and paste it into the main.py file.
+
+5)Save the File: After pasting the code, save the main.py file.
+
+6)Run the Code: Open a terminal or command prompt window and navigate to the folder where you saved the main.py file. You can do this using the cd command (change directory) followed by the path to your folder.
+
+7)Execute the Python Script: Once you’re in the correct directory, type python main.py and press Enter to run the Python script. This will execute the code and launch the hostel management system.
